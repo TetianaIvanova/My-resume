@@ -1,0 +1,18 @@
+@media (max-widht: 1200px);
+ {
+  .my-container {
+    max-width: 970px;
+  }
+}
+@media (max-widht: 992px);
+ {
+  .my-container {
+    max-width: 750px;
+  }
+}
+@media (max-widht: 767px);
+ {
+  .my-container {
+    max-width: none;
+  }
+}
